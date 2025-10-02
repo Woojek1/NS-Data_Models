@@ -1,0 +1,7 @@
+{
+  "name": "Month",
+  "dataType": "string",
+  "isNullable": false,
+  "sourceColumn": "mon2_name",
+  "sortByColumn": "mon_name_s"
+}

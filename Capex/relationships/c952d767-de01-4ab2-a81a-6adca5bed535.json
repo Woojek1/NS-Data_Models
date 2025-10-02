@@ -1,0 +1,7 @@
+{
+  "name": "c952d767-de01-4ab2-a81a-6adca5bed535",
+  "fromTable": "CAPEX Bud Measures",
+  "fromColumn": "mpk_id",
+  "toTable": "Organization",
+  "toColumn": "mpk_id"
+}

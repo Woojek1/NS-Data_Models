@@ -1,0 +1,671 @@
+{
+  "name": "pl-PL",
+  "translations": {
+    "model": {
+      "name": "CAPEX Model",
+      "tables": [
+        {
+          "name": "Activity Category 5 pct",
+          "translatedCaption": "Kategoria aktywności 5%",
+          "columns": [
+            {
+              "name": "Account 5 pct Code",
+              "translatedCaption": "Konto 5% kod"
+            },
+            {
+              "name": "Account 5 pct",
+              "translatedCaption": "Konto 5%"
+            }
+          ]
+        },
+        {
+          "name": "Supplier",
+          "translatedCaption": "Dostawca",
+          "columns": [
+            {
+              "name": "Supplier Code",
+              "translatedCaption": "Dostawca kod"
+            },
+            {
+              "name": "Supplier",
+              "translatedCaption": "Dostawca"
+            }
+          ]
+        },
+        {
+          "name": "Sales Category Cost",
+          "translatedCaption": "Koszt sprzedaży kategoria",
+          "columns": [
+            {
+              "name": "SC Category Code",
+              "translatedCaption": "Koszt sprzedaży"
+            },
+            {
+              "name": "SC Category",
+              "translatedCaption": "Koszt sprzedaży kategoria"
+            },
+            {
+              "name": "SC Category (en)",
+              "translatedCaption": "Koszt sprzedaży kategoria (en)"
+            },
+            {
+              "name": "SC Type Code",
+              "translatedCaption": "Koszt sprzedaży typ kod"
+            },
+            {
+              "name": "SC Type",
+              "translatedCaption": "Koszt sprzedaży typ"
+            },
+            {
+              "name": "SC Type (en)",
+              "translatedCaption": "Koszt sprzedaży typ (en)"
+            },
+            {
+              "name": "Fixed Code",
+              "translatedCaption": "Koszty stałe kod"
+            },
+            {
+              "name": "Fixed",
+              "translatedCaption": "Koszty stałe"
+            },
+            {
+              "name": "Fixed (en)",
+              "translatedCaption": "Koszty stałe (en)"
+            }
+          ]
+        },
+        {
+          "name": "Cnt Transfer",
+          "translatedCaption": "Transfer",
+          "columns": [
+            {
+              "name": "Company After Trans Code",
+              "translatedCaption": "Spółka po transferze kod"
+            },
+            {
+              "name": "Company After Trans",
+              "translatedCaption": "Spółka po transferze"
+            },
+            {
+              "name": "Cost Source Code",
+              "translatedCaption": "Źródło kosztów kod"
+            },
+            {
+              "name": "Cost Source",
+              "translatedCaption": "Źródło kosztów"
+            }
+          ]
+        },
+        {
+          "name": "Mng Responsibility",
+          "translatedCaption": "Zależny",
+          "columns": [
+            {
+              "name": "Mng Responsibility Code",
+              "translatedCaption": "Zależny kod"
+            },
+            {
+              "name": "Mng Responsibility",
+              "translatedCaption": "Zależny"
+            },
+            {
+              "name": "Mng Responsibility (en)",
+              "translatedCaption": "Zależny (en)"
+            }
+          ]
+        },
+        {
+          "name": "Organization",
+          "translatedCaption": "Organizacja",
+          "columns": [
+            {
+              "name": "MPK Code",
+              "translatedCaption": "MPK kod"
+            },
+            {
+              "name": "MPK",
+              "translatedCaption": "MPK"
+            },
+            {
+              "name": "Section Code",
+              "translatedCaption": "Sekcja kod"
+            },
+            {
+              "name": "Section",
+              "translatedCaption": "Sekcja"
+            },
+            {
+              "name": "Department Code",
+              "translatedCaption": "Dział kod"
+            },
+            {
+              "name": "Department",
+              "translatedCaption": "Dział"
+            },
+            {
+              "name": "Division Code",
+              "translatedCaption": "Oddział kod"
+            },
+            {
+              "name": "Division",
+              "translatedCaption": "Oddział"
+            },
+            {
+              "name": "Facility Code",
+              "translatedCaption": "Fabryka kod"
+            },
+            {
+              "name": "Facility",
+              "translatedCaption": "Fabryka"
+            }
+          ]
+        },
+        {
+          "name": "Category Cost",
+          "translatedCaption": "Kategoria kosztu",
+          "columns": [
+            {
+              "name": "Account Type Code",
+              "translatedCaption": "Typ konta kod"
+            },
+            {
+              "name": "Account Type",
+              "translatedCaption": "Typ konta"
+            },
+            {
+              "name": "Synth 6 ch Code",
+              "translatedCaption": "Synt 6 kod"
+            },
+            {
+              "name": "Synth 6 ch",
+              "translatedCaption": "Synt 6"
+            },
+            {
+              "name": "Synth 6 ch (en)",
+              "translatedCaption": "Synt 6 (en)"
+            },
+            {
+              "name": "Synth 3 ch Code",
+              "translatedCaption": "Synt 3 kod"
+            },
+            {
+              "name": "Synth 3 ch",
+              "translatedCaption": "Synt 3"
+            },
+            {
+              "name": "Synth 3 ch (en)",
+              "translatedCaption": "Synt 3 (en)"
+            }
+          ]
+        },
+        {
+          "name": "Company",
+          "translatedCaption": "Spółka",
+          "columns": [
+            {
+              "name": "Company",
+              "translatedCaption": "Spółka"
+            },
+            {
+              "name": "Company Code",
+              "translatedCaption": "Spółka kod"
+            }
+          ]
+        },
+        {
+          "name": "Date",
+          "translatedCaption": "Czas",
+          "columns": [
+            {
+              "name": "Month Code",
+              "translatedCaption": "Miesiąc kod"
+            },
+            {
+              "name": "Month Date",
+              "translatedCaption": "Miesiąc data"
+            },
+            {
+              "name": "Quarter Code",
+              "translatedCaption": "Kwartał kod"
+            },
+            {
+              "name": "Half-Year",
+              "translatedCaption": "Półrocze"
+            },
+            {
+              "name": "Year",
+              "translatedCaption": "Rok"
+            },
+            {
+              "name": "Month",
+              "translatedCaption": "Miesiąc"
+            },
+            {
+              "name": "Quarter",
+              "translatedCaption": "Kwartał"
+            }
+          ]
+        },
+        {
+          "name": "Project",
+          "translatedCaption": "Projekt",
+          "columns": [
+            {
+              "name": "Project Code",
+              "translatedCaption": "Projekt kod"
+            },
+            {
+              "name": "Project",
+              "translatedCaption": "Projekt"
+            },
+            {
+              "name": "Project Sub Grp Code",
+              "translatedCaption": "Projekt podgrupa kod"
+            },
+            {
+              "name": "Project Sub Grp",
+              "translatedCaption": "Projekt podgrupa"
+            },
+            {
+              "name": "Project Grp Code",
+              "translatedCaption": "Projekt grupa kod"
+            },
+            {
+              "name": "Project Grp",
+              "translatedCaption": "Projekt grupa"
+            },
+            {
+              "name": "Owner Code",
+              "translatedCaption": "Odpowiedzialny kod"
+            },
+            {
+              "name": "Owner",
+              "translatedCaption": "Odpowiedzialny"
+            },
+            {
+              "name": "Coordinator FO",
+              "translatedCaption": "Koordynator FO"
+            },
+            {
+              "name": "Project Manager",
+              "translatedCaption": "Kierownik projektu"
+            },
+            {
+              "name": "Coordinator BO",
+              "translatedCaption": "Koordynator BO"
+            }
+          ]
+        },
+        {
+          "name": "Variant",
+          "translatedCaption": "Wariant",
+          "columns": [
+            {
+              "name": "Variant Code",
+              "translatedCaption": "Wariant kod"
+            },
+            {
+              "name": "Variant",
+              "translatedCaption": "Wariant"
+            }
+          ]
+        },
+        {
+          "name": "Currency",
+          "translatedCaption": "Waluta",
+          "columns": [
+            {
+              "name": "Currency Code",
+              "translatedCaption": "Waluta kod"
+            },
+            {
+              "name": "Currency",
+              "translatedCaption": "Waluta"
+            }
+          ]
+        },
+        {
+          "name": "GL Currency",
+          "translatedCaption": "Waluta KG",
+          "columns": [
+            {
+              "name": "GL Currency Code",
+              "translatedCaption": "Waluta KG kod"
+            },
+            {
+              "name": "GL Currency",
+              "translatedCaption": "Waluta KG"
+            }
+          ]
+        },
+        {
+          "name": "CAPEX Measures",
+          "translatedCaption": "Miary CAPEX",
+          "columns": [
+            {
+              "name": "Voucher Date",
+              "translatedCaption": "Data dokumnetu księgowego",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Voucher Type",
+              "translatedCaption": "Typ dokumentu księgowego",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Event Date",
+              "translatedCaption": "Wydarzenie data",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Document Date",
+              "translatedCaption": "Dokument data",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Document Number",
+              "translatedCaption": "Dokument numer",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Reference Serie",
+              "translatedCaption": "Seria referencyjna",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Code D (FK)",
+              "translatedCaption": "Kod D (FK)",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Code (CODE_G)",
+              "translatedCaption": "Kod (KOD_G)",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Description (CODE_G)",
+              "translatedCaption": "Opis (KOD_G)",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Customer Code (CODE_H)",
+              "translatedCaption": "Klient kod (KOD_H)",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Code (CODE_I)",
+              "translatedCaption": "Kod (KOD_I)",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Code (CODE_J)",
+              "translatedCaption": "Kod (KOD_J)",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Suplier Code (PARTY_TYPE_ID)",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Voucher Annotation",
+              "translatedCaption": "Adnotacja do dokumentu księgowego",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "BI Capex",
+              "translatedCaption": "BI Capex",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Payment Voucher Account",
+              "translatedCaption": "Płatność dokumentu księgowego konto",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Payment ID",
+              "translatedCaption": "Płatność ID",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Check Payment ID (count)",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Paymant Date",
+              "translatedCaption": "Data płatności",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Payment Voucher Ref",
+              "translatedCaption": "Płatność dokumentu księgowego nr ref",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            },
+            {
+              "name": "Payment Voucher No",
+              "translatedCaption": "Płatność dokumentu księgowego nr",
+              "translatedDisplayFolder": "Miary transakcyjne"
+            }
+          ],
+          "measures": [
+            {
+              "name": "Debit PLN",
+              "translatedCaption": "Debet PLN",
+              "translatedDisplayFolder": "Miary PLN"
+            },
+            {
+              "name": "Credit PLN",
+              "translatedCaption": "Kredyt PLN",
+              "translatedDisplayFolder": "Miary PLN"
+            },
+            {
+              "name": "Amount PLN",
+              "translatedCaption": "Kwota PLN",
+              "translatedDisplayFolder": "Miary PLN"
+            },
+            {
+              "name": "Debit bPLN",
+              "translatedCaption": "Debet bPLN",
+              "translatedDisplayFolder": "Miary bPLN"
+            },
+            {
+              "name": "Credit bPLN",
+              "translatedCaption": "Kredyt bPLN",
+              "translatedDisplayFolder": "Miary bPLN"
+            },
+            {
+              "name": "Amount bPLN",
+              "translatedCaption": "Kwota bPLN",
+              "translatedDisplayFolder": "Miary bPLN"
+            },
+            {
+              "name": "Debit EUR",
+              "translatedCaption": "Debet EUR",
+              "translatedDisplayFolder": "Miary EUR"
+            },
+            {
+              "name": "Credit EUR",
+              "translatedCaption": "Kredyt EUR",
+              "translatedDisplayFolder": "Miary EUR"
+            },
+            {
+              "name": "Amount EUR",
+              "translatedCaption": "Kwota EUR",
+              "translatedDisplayFolder": "Miary EUR"
+            },
+            {
+              "name": "Debit bEUR",
+              "translatedCaption": "Debet bEUR",
+              "translatedDisplayFolder": "Miary bEUR"
+            },
+            {
+              "name": "Credit bEUR",
+              "translatedCaption": "Kredyt bEUR",
+              "translatedDisplayFolder": "Miary bEUR"
+            },
+            {
+              "name": "Amount bEUR",
+              "translatedCaption": "Kwota bEUR",
+              "translatedDisplayFolder": "Miary bEUR"
+            },
+            {
+              "name": "Debit CUR",
+              "translatedCaption": "Debet CUR",
+              "translatedDisplayFolder": "Miary CUR"
+            },
+            {
+              "name": "Credit CUR",
+              "translatedCaption": "Kredyt CUR",
+              "translatedDisplayFolder": "Miary CUR"
+            },
+            {
+              "name": "Amount CUR",
+              "translatedCaption": "Kwota CUR",
+              "translatedDisplayFolder": "Miary CUR"
+            },
+            {
+              "name": "Debit GL CUR",
+              "translatedCaption": "Debet KG CUR",
+              "translatedDisplayFolder": "Miary KG CUR"
+            },
+            {
+              "name": "Credit GL CUR",
+              "translatedCaption": "Kredyt KG CUR",
+              "translatedDisplayFolder": "Miary KG CUR"
+            },
+            {
+              "name": "Amount GL CUR",
+              "translatedCaption": "Kwota KG CUR",
+              "translatedDisplayFolder": "Miary KG CUR"
+            }
+          ]
+        },
+        {
+          "name": "Sales Organization",
+          "translatedCaption": "Sprzedaż organizacja",
+          "columns": [
+            {
+              "name": "Team Code",
+              "translatedCaption": "Zespół kod"
+            },
+            {
+              "name": "Team",
+              "translatedCaption": "Zespół"
+            },
+            {
+              "name": "Department Code",
+              "translatedCaption": "Dział kod"
+            },
+            {
+              "name": "Department",
+              "translatedCaption": "Dział"
+            }
+          ]
+        },
+        {
+          "name": "CAPEX Bud Measures",
+          "translatedCaption": "Miary budżetowe CAPEX",
+          "measures": [
+            {
+              "name": "Budget PLN",
+              "translatedCaption": "Budżet PLN"
+            },
+            {
+              "name": "Budget bPLN",
+              "translatedCaption": "Budżet bPLN"
+            },
+            {
+              "name": "Budget EUR",
+              "translatedCaption": "Budżet EUR"
+            },
+            {
+              "name": "Budget bEUR",
+              "translatedCaption": "Budżet bEUR"
+            },
+            {
+              "name": "Budget CUR",
+              "translatedCaption": "Budżet CUR"
+            }
+          ]
+        },
+        {
+          "name": "Account",
+          "translatedCaption": "Konto",
+          "columns": [
+            {
+              "name": "Account Code",
+              "translatedCaption": "Konto kod"
+            },
+            {
+              "name": "Account",
+              "translatedCaption": "Konto"
+            }
+          ]
+        },
+        {
+          "name": "Pay Account",
+          "translatedCaption": "Konto płatnicze",
+          "columns": [
+            {
+              "name": "Pay Account Code",
+              "translatedCaption": "Konto płatnicze kod"
+            },
+            {
+              "name": "Pay Account",
+              "translatedCaption": "Konto płatnicze"
+            }
+          ]
+        },
+        {
+          "name": "Expenses Category",
+          "translatedCaption": "Kategoria wydatków",
+          "columns": [
+            {
+              "name": "Expenses Category Code",
+              "translatedCaption": "Kategoria wydatków kod"
+            },
+            {
+              "name": "Expenses Category",
+              "translatedCaption": "Kategoria wydatków"
+            }
+          ]
+        },
+        {
+          "name": "Voucher Type",
+          "translatedCaption": "Dokument księgowy",
+          "columns": [
+            {
+              "name": "Voucher Type Code",
+              "translatedCaption": "Dokument księgowy typ kod"
+            },
+            {
+              "name": "Voucher Type",
+              "translatedCaption": "Dokument księgowy typ"
+            },
+            {
+              "name": "Voucher Category Code",
+              "translatedCaption": "Dokument księgowy kategoria kod"
+            },
+            {
+              "name": "Voucher Category",
+              "translatedCaption": "Dokument księgowy kategoria"
+            }
+          ]
+        },
+        {
+          "name": "Prj Bud Total Measures",
+          "translatedCaption": "Projekt budżet miary",
+          "measures": [
+            {
+              "name": "Prj Bdg Total PLN",
+              "translatedCaption": "Projekt budżet suma PLN"
+            },
+            {
+              "name": "Prj Bdg Total CUR",
+              "translatedCaption": "Projekt Budżet suma CUR"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

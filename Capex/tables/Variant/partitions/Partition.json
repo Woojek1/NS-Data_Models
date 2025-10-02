@@ -1,0 +1,14 @@
+{
+  "name": "Partition",
+  "dataView": "full",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = #\"SQL/sql-solet-prod database windows net;SQLDB-solet-prod_01\",",
+      "    dbo_vd_variant = Source{[Schema=\"dbo\",Item=\"vd_variant\"]}[Data]",
+      "in",
+      "    dbo_vd_variant"
+    ]
+  }
+}

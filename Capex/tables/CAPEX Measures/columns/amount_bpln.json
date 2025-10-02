@@ -1,0 +1,7 @@
+{
+  "name": "amount_bpln",
+  "dataType": "double",
+  "isHidden": true,
+  "sourceColumn": "amount_bpln",
+  "displayFolder": "Measures bPLN"
+}

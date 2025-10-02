@@ -1,0 +1,6 @@
+{
+  "name": "Suplier Code (PARTY_TYPE_ID)",
+  "dataType": "string",
+  "sourceColumn": "src_party_type_id",
+  "displayFolder": "Transaction Measures"
+}

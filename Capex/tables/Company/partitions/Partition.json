@@ -1,0 +1,33 @@
+{
+  "name": "Partition",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Value.NativeQuery(#\"SQL/sql-solet-prod database windows net;SQLDB-solet-prod_01\", \"select",
+      "comp_id",
+      ",comp_code",
+      ",comp_name",
+      ",comp_name_s",
+      "from vd_company\")",
+      "in",
+      "    Source"
+    ]
+  },
+  "annotations": [
+    {
+      "name": "QueryEditorSerialization",
+      "value": [
+        "<?xml version=\"1.0\" encoding=\"UTF-16\"?><Gemini xmlns=\"QueryEditorSerialization\"><AnnotationContent><![CDATA[<RSQueryCommandText>let",
+        "    Source = Value.NativeQuery(#\"SQL/sql-solet-prod database windows net;SQLDB-solet-prod_01\", \"select",
+        "comp_id",
+        ",comp_code",
+        ",comp_name",
+        ",comp_name_s",
+        "from vd_company\")",
+        "in",
+        "    Source</RSQueryCommandText><RSQueryCommandType>Text</RSQueryCommandType><RSQueryDesignState></RSQueryDesignState>]]></AnnotationContent></Gemini>"
+      ]
+    }
+  ]
+}

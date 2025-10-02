@@ -1,0 +1,6 @@
+{
+  "name": "yearh_date",
+  "dataType": "dateTime",
+  "isHidden": true,
+  "sourceColumn": "yearh_date"
+}

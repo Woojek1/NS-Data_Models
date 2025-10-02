@@ -1,0 +1,7 @@
+{
+  "name": "d30611d1-2046-446d-ac33-07c3cfa08a46",
+  "fromTable": "CAPEX Measures",
+  "fromColumn": "prior_id",
+  "toTable": "Priority",
+  "toColumn": "prior_id"
+}

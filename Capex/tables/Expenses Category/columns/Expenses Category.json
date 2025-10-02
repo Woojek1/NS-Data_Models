@@ -1,0 +1,5 @@
+{
+  "name": "Expenses Category",
+  "dataType": "string",
+  "sourceColumn": "capex_cat_name"
+}

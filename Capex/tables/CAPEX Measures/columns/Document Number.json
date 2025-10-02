@@ -1,0 +1,6 @@
+{
+  "name": "Document Number",
+  "dataType": "string",
+  "sourceColumn": "src_reference_number",
+  "displayFolder": "Transaction Measures"
+}

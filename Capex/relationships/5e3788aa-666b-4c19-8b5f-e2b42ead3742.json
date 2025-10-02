@@ -1,0 +1,7 @@
+{
+  "name": "5e3788aa-666b-4c19-8b5f-e2b42ead3742",
+  "fromTable": "CAPEX Bud Measures",
+  "fromColumn": "time_id",
+  "toTable": "Date",
+  "toColumn": "mon_id"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Project Sub Grp",
+  "dataType": "string",
+  "sourceColumn": "prj_sgrp_name"
+}

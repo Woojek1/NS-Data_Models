@@ -1,0 +1,7 @@
+{
+  "name": "f842b033-ef02-456b-b311-83bfc88a5c8e",
+  "fromTable": "CAPEX Bud Measures",
+  "fromColumn": "prior_id",
+  "toTable": "Priority",
+  "toColumn": "prior_id"
+}

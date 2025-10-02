@@ -1,0 +1,5 @@
+{
+  "name": "Currency",
+  "dataType": "string",
+  "sourceColumn": "curr_name"
+}

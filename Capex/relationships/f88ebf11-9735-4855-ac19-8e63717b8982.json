@@ -1,0 +1,7 @@
+{
+  "name": "f88ebf11-9735-4855-ac19-8e63717b8982",
+  "fromTable": "CAPEX Bud Measures",
+  "fromColumn": "account_id",
+  "toTable": "Activity Category 5 pct",
+  "toColumn": "cat_id"
+}

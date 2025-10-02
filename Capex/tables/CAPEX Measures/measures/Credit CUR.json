@@ -1,0 +1,5 @@
+{
+  "name": "Credit CUR",
+  "expression": "SUM([credit_amount_cur])",
+  "displayFolder": "Measures CUR"
+}

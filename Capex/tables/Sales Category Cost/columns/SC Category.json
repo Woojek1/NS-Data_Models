@@ -1,0 +1,5 @@
+{
+  "name": "SC Category",
+  "dataType": "string",
+  "sourceColumn": "scat_name"
+}

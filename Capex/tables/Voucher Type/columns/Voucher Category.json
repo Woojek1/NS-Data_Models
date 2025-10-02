@@ -1,0 +1,5 @@
+{
+  "name": "Voucher Category",
+  "dataType": "string",
+  "sourceColumn": "voucher_cat_name"
+}

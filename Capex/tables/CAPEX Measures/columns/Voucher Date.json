@@ -1,0 +1,6 @@
+{
+  "name": "Voucher Date",
+  "dataType": "dateTime",
+  "sourceColumn": "src_voucher_date",
+  "displayFolder": "Transaction Measures"
+}

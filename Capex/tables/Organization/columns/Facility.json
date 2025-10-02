@@ -1,0 +1,5 @@
+{
+  "name": "Facility",
+  "dataType": "string",
+  "sourceColumn": "fac_name"
+}

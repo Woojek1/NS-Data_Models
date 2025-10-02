@@ -1,0 +1,5 @@
+{
+  "name": "Priority",
+  "dataType": "string",
+  "sourceColumn": "prior_code"
+}

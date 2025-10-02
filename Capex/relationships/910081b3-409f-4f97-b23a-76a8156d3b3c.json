@@ -1,0 +1,7 @@
+{
+  "name": "910081b3-409f-4f97-b23a-76a8156d3b3c",
+  "fromTable": "CAPEX Bud Measures",
+  "fromColumn": "cnt_trans_id",
+  "toTable": "Cnt Transfer",
+  "toColumn": "cnt_trans_id"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Code D (FK)",
+  "dataType": "string",
+  "sourceColumn": "src_code_d",
+  "displayFolder": "Transaction Measures"
+}

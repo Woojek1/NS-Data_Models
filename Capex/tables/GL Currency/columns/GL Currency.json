@@ -1,0 +1,5 @@
+{
+  "name": "GL Currency",
+  "dataType": "string",
+  "sourceColumn": "curr_name"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fe0641ae-5885-44e5-816a-8913a741cba2",
+  "fromTable": "CAPEX Measures",
+  "fromColumn": "fin_curr_id",
+  "toTable": "GL Currency",
+  "toColumn": "curr_id"
+}

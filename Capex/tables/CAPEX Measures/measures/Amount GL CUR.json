@@ -1,0 +1,5 @@
+{
+  "name": "Amount GL CUR",
+  "expression": "SUM([amount_fcur])",
+  "displayFolder": "Measures GL CURR"
+}

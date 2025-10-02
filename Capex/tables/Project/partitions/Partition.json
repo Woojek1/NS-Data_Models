@@ -1,0 +1,61 @@
+{
+  "name": "Partition",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Value.NativeQuery(#\"SQL/sql-solet-prod database windows net;SQLDB-solet-prod_01\", \"select",
+      "prj_id",
+      ",db_code",
+      ",comp_code",
+      ",prj_code",
+      ",prj_desc",
+      ",prj_sgrp_id",
+      ",prj_sgrp_code",
+      ",prj_sgrp_name",
+      ",prj_grp_id",
+      ",prj_grp_code",
+      ",prj_grp_name",
+      ",owner_id",
+      ",owner_code",
+      ",owner_name",
+      ",front_office",
+      ",project_manager",
+      ",coordinator_bo",
+      ",mpk_code",
+      "from vd_gl_project p where p.prj_id in (select s.prj_id from vf_capex_data s union select b.prj_id from vf_capex_bud_data b union select t.prj_id from vf_capex_bud_tot_data t)\")",
+      "in",
+      "    Source"
+    ]
+  },
+  "annotations": [
+    {
+      "name": "QueryEditorSerialization",
+      "value": [
+        "<?xml version=\"1.0\" encoding=\"UTF-16\"?><Gemini xmlns=\"QueryEditorSerialization\"><AnnotationContent><![CDATA[<RSQueryCommandText>let",
+        "    Source = Value.NativeQuery(#\"SQL/sql-solet-prod database windows net;SQLDB-solet-prod_01\", \"select",
+        "prj_id",
+        ",db_code",
+        ",comp_code",
+        ",prj_code",
+        ",prj_desc",
+        ",prj_sgrp_id",
+        ",prj_sgrp_code",
+        ",prj_sgrp_name",
+        ",prj_grp_id",
+        ",prj_grp_code",
+        ",prj_grp_name",
+        ",owner_id",
+        ",owner_code",
+        ",owner_name",
+        ",front_office",
+        ",project_manager",
+        ",coordinator_bo",
+        ",mpk_code",
+        "from vd_gl_project p where p.prj_id in (select s.prj_id from vf_capex_data s union select b.prj_id from vf_capex_bud_data b union select t.prj_id from vf_capex_bud_tot_data t)\")",
+        "in",
+        "    Source</RSQueryCommandText><RSQueryCommandType>Text</RSQueryCommandType><RSQueryDesignState></RSQueryDesignState>]]></AnnotationContent></Gemini>"
+      ]
+    }
+  ]
+}

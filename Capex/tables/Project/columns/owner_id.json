@@ -1,0 +1,6 @@
+{
+  "name": "owner_id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "owner_id"
+}

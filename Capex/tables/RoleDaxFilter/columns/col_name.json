@@ -1,0 +1,6 @@
+{
+  "name": "col_name",
+  "dataType": "string",
+  "isNullable": false,
+  "sourceColumn": "col_name"
+}

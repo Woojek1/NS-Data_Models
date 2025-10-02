@@ -1,0 +1,7 @@
+{
+  "name": "087cd575-9918-4ac6-b867-0de28427d01d",
+  "fromTable": "CAPEX Measures",
+  "fromColumn": "ccat_id",
+  "toTable": "Expenses Category",
+  "toColumn": "capex_cat_id"
+}

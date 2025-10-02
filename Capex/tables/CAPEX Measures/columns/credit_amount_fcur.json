@@ -1,0 +1,7 @@
+{
+  "name": "credit_amount_fcur",
+  "dataType": "double",
+  "isHidden": true,
+  "sourceColumn": "credit_amount_fcur",
+  "displayFolder": "Measures GL CURR"
+}

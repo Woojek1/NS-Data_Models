@@ -1,0 +1,5 @@
+{
+  "name": "Company Code",
+  "dataType": "string",
+  "sourceColumn": "comp_name_s"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "fixed_id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "fixed_id"
+}

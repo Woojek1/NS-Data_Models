@@ -1,0 +1,7 @@
+{
+  "name": "amount_pln",
+  "dataType": "double",
+  "isHidden": true,
+  "sourceColumn": "amount_pln",
+  "displayFolder": "Measures PLN"
+}

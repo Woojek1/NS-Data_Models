@@ -1,0 +1,6 @@
+{
+  "name": "db_code",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "db_code"
+}

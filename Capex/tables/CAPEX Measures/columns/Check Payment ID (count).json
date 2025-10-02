@@ -1,0 +1,7 @@
+{
+  "name": "Check Payment ID (count)",
+  "dataType": "int64",
+  "sourceColumn": "src_mixed_payment_id_cnt",
+  "displayFolder": "Transaction Measures",
+  "summarizeBy": "none"
+}

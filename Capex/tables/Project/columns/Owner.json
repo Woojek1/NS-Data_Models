@@ -1,0 +1,5 @@
+{
+  "name": "Owner",
+  "dataType": "string",
+  "sourceColumn": "owner_name"
+}

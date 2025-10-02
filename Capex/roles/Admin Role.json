@@ -1,0 +1,14 @@
+{
+  "name": "Admin Role",
+  "modelPermission": "administrator",
+  "members": [
+    {
+      "memberName": "piotr.turek@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "lukasz.wojcik@nowystyl.com",
+      "identityProvider": "AzureAD"
+    }
+  ]
+}

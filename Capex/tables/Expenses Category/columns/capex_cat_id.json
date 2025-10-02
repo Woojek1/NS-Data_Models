@@ -1,0 +1,6 @@
+{
+  "name": "capex_cat_id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "capex_cat_id"
+}

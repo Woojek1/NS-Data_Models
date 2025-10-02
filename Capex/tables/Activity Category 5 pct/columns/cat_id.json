@@ -1,0 +1,6 @@
+{
+  "name": "cat_id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "cat_id"
+}

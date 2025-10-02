@@ -1,0 +1,5 @@
+{
+  "name": "Account Type",
+  "dataType": "string",
+  "sourceColumn": "account_name"
+}

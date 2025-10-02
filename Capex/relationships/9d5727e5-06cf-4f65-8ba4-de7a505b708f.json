@@ -1,0 +1,7 @@
+{
+  "name": "9d5727e5-06cf-4f65-8ba4-de7a505b708f",
+  "fromTable": "CAPEX Measures",
+  "fromColumn": "var_id",
+  "toTable": "Variant",
+  "toColumn": "var_id"
+}

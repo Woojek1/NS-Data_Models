@@ -1,0 +1,6 @@
+{
+  "name": "prior_name",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "prior_name"
+}

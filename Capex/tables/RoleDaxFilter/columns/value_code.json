@@ -1,0 +1,6 @@
+{
+  "name": "value_code",
+  "dataType": "string",
+  "isNullable": false,
+  "sourceColumn": "value_code"
+}

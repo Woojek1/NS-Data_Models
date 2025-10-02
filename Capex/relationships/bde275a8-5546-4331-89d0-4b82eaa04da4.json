@@ -1,0 +1,7 @@
+{
+  "name": "bde275a8-5546-4331-89d0-4b82eaa04da4",
+  "fromTable": "CAPEX Measures",
+  "fromColumn": "account_id",
+  "toTable": "Activity Category 5 pct",
+  "toColumn": "cat_id"
+}

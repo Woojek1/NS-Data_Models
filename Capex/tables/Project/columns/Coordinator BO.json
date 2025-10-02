@@ -1,0 +1,5 @@
+{
+  "name": "Coordinator BO",
+  "dataType": "string",
+  "sourceColumn": "coordinator_bo"
+}

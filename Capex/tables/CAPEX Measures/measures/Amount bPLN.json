@@ -1,0 +1,5 @@
+{
+  "name": "Amount bPLN",
+  "expression": "SUM([amount_bpln])",
+  "displayFolder": "Measures bPLN"
+}

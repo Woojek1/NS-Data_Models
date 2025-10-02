@@ -1,0 +1,76 @@
+{
+  "name": "Read All Role",
+  "modelPermission": "readRefresh",
+  "members": [
+    {
+      "memberName": "konrad.olesinski@nowystylgroup.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "lukasz.kuras@nowystylgroup.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "adam.knittel@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "radoslaw.jankielewicz@nowystylgroup.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "monika.mateja@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "adam.krzanowski@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "joanna.klimkowska@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "katarzyna.lesniak@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "borys.tolinski@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "rafal.chwast@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "pawel.smas@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "malgorzata.naparlo@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "jerzy.krzanowski@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "marcin.ploszaj@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "paulina.chudyba@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "lukasz.wojcik@nowystyl.com",
+      "identityProvider": "AzureAD"
+    }
+  ],
+  "tablePermissions": [
+    {
+      "name": "RoleDaxFilter",
+      "filterExpression": "FALSE()"
+    }
+  ]
+}

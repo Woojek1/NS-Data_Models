@@ -1,0 +1,5 @@
+{
+  "name": "Project Manager",
+  "dataType": "string",
+  "sourceColumn": "project_manager"
+}

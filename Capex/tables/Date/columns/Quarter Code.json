@@ -1,0 +1,6 @@
+{
+  "name": "Quarter Code",
+  "dataType": "string",
+  "isNullable": false,
+  "sourceColumn": "quart_name"
+}

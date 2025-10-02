@@ -1,0 +1,6 @@
+{
+  "name": "acc3_id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "acc3_id"
+}

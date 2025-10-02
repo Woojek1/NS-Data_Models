@@ -1,0 +1,6 @@
+{
+  "name": "mng_resp_id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "mng_resp_id"
+}

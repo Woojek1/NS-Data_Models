@@ -1,0 +1,6 @@
+{
+  "name": "Month Code",
+  "dataType": "string",
+  "isNullable": false,
+  "sourceColumn": "mon_name"
+}

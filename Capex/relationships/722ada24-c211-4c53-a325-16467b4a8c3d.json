@@ -1,0 +1,7 @@
+{
+  "name": "722ada24-c211-4c53-a325-16467b4a8c3d",
+  "fromTable": "CAPEX Measures",
+  "fromColumn": "supp_id",
+  "toTable": "Supplier",
+  "toColumn": "supp_id"
+}

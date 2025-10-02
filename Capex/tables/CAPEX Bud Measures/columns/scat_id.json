@@ -1,0 +1,6 @@
+{
+  "name": "scat_id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "scat_id"
+}

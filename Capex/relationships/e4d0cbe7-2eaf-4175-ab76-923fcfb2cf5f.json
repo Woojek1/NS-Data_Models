@@ -1,0 +1,7 @@
+{
+  "name": "e4d0cbe7-2eaf-4175-ab76-923fcfb2cf5f",
+  "fromTable": "Prj Bud Total Measures",
+  "fromColumn": "curr_id",
+  "toTable": "GL Currency",
+  "toColumn": "curr_id"
+}

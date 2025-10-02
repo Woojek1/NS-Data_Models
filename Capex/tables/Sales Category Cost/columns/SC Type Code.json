@@ -1,0 +1,5 @@
+{
+  "name": "SC Type Code",
+  "dataType": "string",
+  "sourceColumn": "type_code"
+}

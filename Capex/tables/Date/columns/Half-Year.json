@@ -1,0 +1,6 @@
+{
+  "name": "Half-Year",
+  "dataType": "string",
+  "isNullable": false,
+  "sourceColumn": "yearh_name"
+}

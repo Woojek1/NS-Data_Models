@@ -1,0 +1,37 @@
+{
+  "name": "Partition",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Value.NativeQuery(#\"SQL/sql-solet-prod database windows net;SQLDB-solet-prod_01\", \"select",
+      "supp_id",
+      ",supp_code",
+      ",supp_name",
+      ",cust_int_grp_factor",
+      ",cust_int_grp_factor_en",
+      "from vd_supplier_customer p",
+      "where p.supp_id in (select s.supp_id from vf_capex_data s)\")",
+      "in",
+      "    Source"
+    ]
+  },
+  "annotations": [
+    {
+      "name": "QueryEditorSerialization",
+      "value": [
+        "<?xml version=\"1.0\" encoding=\"UTF-16\"?><Gemini xmlns=\"QueryEditorSerialization\"><AnnotationContent><![CDATA[<RSQueryCommandText>let",
+        "    Source = Value.NativeQuery(#\"SQL/sql-solet-prod database windows net;SQLDB-solet-prod_01\", \"select",
+        "supp_id",
+        ",supp_code",
+        ",supp_name",
+        ",cust_int_grp_factor",
+        ",cust_int_grp_factor_en",
+        "from vd_supplier_customer p",
+        "where p.supp_id in (select s.supp_id from vf_capex_data s)\")",
+        "in",
+        "    Source</RSQueryCommandText><RSQueryCommandType>Text</RSQueryCommandType><RSQueryDesignState></RSQueryDesignState>]]></AnnotationContent></Gemini>"
+      ]
+    }
+  ]
+}

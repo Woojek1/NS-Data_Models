@@ -1,0 +1,6 @@
+{
+  "name": "Payment Voucher Ref",
+  "dataType": "string",
+  "sourceColumn": "src_voucher_type_ref",
+  "displayFolder": "Transaction Measures"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "sect_id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "sect_id"
+}

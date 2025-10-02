@@ -1,0 +1,7 @@
+{
+  "name": "credit_amount_bpln",
+  "dataType": "double",
+  "isHidden": true,
+  "sourceColumn": "credit_amount_bpln",
+  "displayFolder": "Measures bPLN"
+}

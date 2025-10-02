@@ -1,0 +1,5 @@
+{
+  "name": "Company Supplier - NSG internal (Y/N)",
+  "dataType": "string",
+  "sourceColumn": "cust_int_grp_factor"
+}

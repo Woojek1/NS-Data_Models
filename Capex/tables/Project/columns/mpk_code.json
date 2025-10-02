@@ -1,0 +1,6 @@
+{
+  "name": "mpk_code",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "mpk_code"
+}

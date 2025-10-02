@@ -1,0 +1,6 @@
+{
+  "name": "Payment Voucher Account",
+  "dataType": "string",
+  "sourceColumn": "src_payment_account",
+  "displayFolder": "Transaction Measures"
+}

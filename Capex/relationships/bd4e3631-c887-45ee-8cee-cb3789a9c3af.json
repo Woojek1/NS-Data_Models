@@ -1,0 +1,7 @@
+{
+  "name": "bd4e3631-c887-45ee-8cee-cb3789a9c3af",
+  "fromTable": "CAPEX Measures",
+  "fromColumn": "comp_id",
+  "toTable": "Company",
+  "toColumn": "comp_id"
+}

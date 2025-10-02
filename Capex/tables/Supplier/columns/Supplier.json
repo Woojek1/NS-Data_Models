@@ -1,0 +1,5 @@
+{
+  "name": "Supplier",
+  "dataType": "string",
+  "sourceColumn": "supp_name"
+}

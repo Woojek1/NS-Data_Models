@@ -1,0 +1,6 @@
+{
+  "name": "comp_code",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "comp_code"
+}

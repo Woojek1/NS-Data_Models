@@ -1,0 +1,25 @@
+{
+  "name": "Partition",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Value.NativeQuery(#\"SQL/sql-solet-prod database windows net;SQLDB-solet-prod_01\", \"select d.user_name, d.col_name, d.value_code",
+      "from v_role_dax_filter_config d where d.privilege_grp='CAPEX_MODEL'\")",
+      "in",
+      "    Source"
+    ]
+  },
+  "annotations": [
+    {
+      "name": "QueryEditorSerialization",
+      "value": [
+        "<?xml version=\"1.0\" encoding=\"UTF-16\"?><Gemini xmlns=\"QueryEditorSerialization\"><AnnotationContent><![CDATA[<RSQueryCommandText>let",
+        "    Source = Value.NativeQuery(#\"SQL/sql-solet-prod database windows net;SQLDB-solet-prod_01\", \"select d.user_name, d.col_name, d.value_code",
+        "from v_role_dax_filter_config d where d.privilege_grp='CAPEX_MODEL'\")",
+        "in",
+        "    Source</RSQueryCommandText><RSQueryCommandType>Text</RSQueryCommandType><RSQueryDesignState></RSQueryDesignState>]]></AnnotationContent></Gemini>"
+      ]
+    }
+  ]
+}

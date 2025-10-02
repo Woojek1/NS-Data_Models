@@ -1,0 +1,6 @@
+{
+  "name": "Customer Code (CODE_H)",
+  "dataType": "string",
+  "sourceColumn": "src_code_h",
+  "displayFolder": "Transaction Measures"
+}

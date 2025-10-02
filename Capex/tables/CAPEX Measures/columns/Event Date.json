@@ -1,0 +1,6 @@
+{
+  "name": "Event Date",
+  "dataType": "dateTime",
+  "sourceColumn": "src_event_date",
+  "displayFolder": "Transaction Measures"
+}

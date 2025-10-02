@@ -1,0 +1,14 @@
+{
+  "name": "budc_eur",
+  "dataType": "double",
+  "isHidden": true,
+  "sourceColumn": "budc_eur",
+  "formatString": "\"€\" #,0.00;-\"€\" #,0.00;\"€\" #,0.00",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Currency\" Accuracy=\"2\" ThousandSeparator=\"True\"><Currency LCID=\"1040\" DisplayName=\"€ Euro(€ 123)\" Symbol=\"€\" PositivePattern=\"2\" NegativePattern=\"9\" /></Format>"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Paymant Date",
+  "dataType": "dateTime",
+  "sourceColumn": "src_mixed_payment_date",
+  "displayFolder": "Transaction Measures"
+}

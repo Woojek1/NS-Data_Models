@@ -1,0 +1,5 @@
+{
+  "name": "Fixed",
+  "dataType": "string",
+  "sourceColumn": "fixed_name"
+}

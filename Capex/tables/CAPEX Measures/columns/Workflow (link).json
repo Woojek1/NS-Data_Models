@@ -1,0 +1,7 @@
+{
+  "name": "Workflow (link)",
+  "dataType": "string",
+  "sourceColumn": "link",
+  "displayFolder": "Transaction Measures",
+  "dataCategory": "WebUrl"
+}

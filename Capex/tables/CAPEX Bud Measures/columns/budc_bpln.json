@@ -1,0 +1,14 @@
+{
+  "name": "budc_bpln",
+  "dataType": "double",
+  "isHidden": true,
+  "sourceColumn": "budc_bpln",
+  "formatString": "#,0.00 \"zł\";-#,0.00 \"zł\";#,0.00 \"zł\"",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Currency\" Accuracy=\"2\" ThousandSeparator=\"True\"><Currency LCID=\"1045\" DisplayName=\"zł Polski (Polska)\" Symbol=\"zł\" PositivePattern=\"3\" NegativePattern=\"8\" /></Format>"
+    }
+  ]
+}

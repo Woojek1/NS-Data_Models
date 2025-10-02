@@ -1,0 +1,7 @@
+{
+  "name": "cdb5d8c6-720c-4e10-8ddf-afd9890fcbea",
+  "fromTable": "CAPEX Measures",
+  "fromColumn": "pay_account_id",
+  "toTable": "Pay Account",
+  "toColumn": "account_id"
+}

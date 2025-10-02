@@ -1,0 +1,5 @@
+{
+  "name": "Account Type Code",
+  "dataType": "string",
+  "sourceColumn": "account_code_bi"
+}

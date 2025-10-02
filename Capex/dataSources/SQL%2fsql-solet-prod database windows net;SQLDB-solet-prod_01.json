@@ -1,0 +1,20 @@
+{
+  "type": "structured",
+  "name": "SQL/sql-solet-prod database windows net;SQLDB-solet-prod_01",
+  "connectionDetails": {
+    "protocol": "tds",
+    "address": {
+      "server": "sql-solet-prod.database.windows.net",
+      "database": "SQLDB-solet-prod_01"
+    },
+    "authentication": null,
+    "query": null
+  },
+  "credential": {
+    "AuthenticationKind": "UsernamePassword",
+    "kind": "SQL",
+    "path": "sql-solet-prod.database.windows.net;SQLDB-solet-prod_01",
+    "Username": "raportowanie",
+    "EncryptConnection": true
+  }
+}

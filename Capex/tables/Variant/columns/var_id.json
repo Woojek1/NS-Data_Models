@@ -1,0 +1,6 @@
+{
+  "name": "var_id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "var_id"
+}

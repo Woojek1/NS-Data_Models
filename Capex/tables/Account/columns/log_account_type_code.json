@@ -1,0 +1,6 @@
+{
+  "name": "log_account_type_code",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "log_account_type_code"
+}

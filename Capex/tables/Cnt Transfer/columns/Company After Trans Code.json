@@ -1,0 +1,5 @@
+{
+  "name": "Company After Trans Code",
+  "dataType": "string",
+  "sourceColumn": "comp_bi_code"
+}

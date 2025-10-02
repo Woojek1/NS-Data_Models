@@ -1,0 +1,6 @@
+{
+  "name": "account_code",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "account_code"
+}

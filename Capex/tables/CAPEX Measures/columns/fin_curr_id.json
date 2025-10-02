@@ -1,0 +1,6 @@
+{
+  "name": "fin_curr_id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "fin_curr_id"
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Read Filter Role",
+  "modelPermission": "readRefresh",
+  "members": [
+    {
+      "memberName": "mariusz.sobocinski@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "rafal.siwek@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "mariusz.sznajder@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "daniel.rozycki@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "wojciech.tkaczyk@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "tomasz.bardzik@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "artur.klocek@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "cezary.janas@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "grzegorz.podkul@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "anna.wiewiora@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "boguslaw.kapala@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "boguslaw.wojtowicz@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "dariusz.such@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "jacek.moskal@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "dorota.soltykiewicz@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "jolanta.adamik@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "monika.kmiecik@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "agnieszka.malicka@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "joanna.sikorska@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "urszula.sobczynska@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "marek.byczyk@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "maksym.khyzhnyak@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "krzysztof.litwin@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "pawel.wietecha@nowystyl.com",
+      "identityProvider": "AzureAD"
+    },
+    {
+      "memberName": "pawel.wojnar@nowystyl.com",
+      "identityProvider": "AzureAD"
+    }
+  ],
+  "tablePermissions": [
+    {
+      "name": "Date",
+      "filterExpression": " [Year] >= VALUE(MAXX(FILTER('RoleDaxFilter',[user_name]=USERNAME() && [col_name]=\"YEAR_NAME\"),[value_code]))"
+    },
+    {
+      "name": "RoleDaxFilter",
+      "filterExpression": "FALSE()"
+    },
+    {
+      "name": "Project",
+      "filterExpression": [
+        " [Owner Code] in SELECTCOLUMNS(FILTER('RoleDaxFilter',[user_name]=USERNAME() && [col_name]=\"OWNER_CODE\"),\"value_code\",[value_code])",
+        "|| [Project Code] in SELECTCOLUMNS(FILTER('RoleDaxFilter',[user_name]=USERNAME() && [col_name]=\"PRJ_CODE\"),\"value_code\",[value_code])",
+        "|| [Project Grp Code] in SELECTCOLUMNS(FILTER('RoleDaxFilter',[user_name]=USERNAME() && [col_name]=\"PRJ_GRP_CODE\"),\"value_code\",[value_code])",
+        "|| [Project Sub Grp Code] in SELECTCOLUMNS(FILTER('RoleDaxFilter',[user_name]=USERNAME() && [col_name]=\"PRJ_SGRP_CODE\"),\"value_code\",[value_code])"
+      ]
+    }
+  ]
+}

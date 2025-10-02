@@ -1,0 +1,7 @@
+{
+  "name": "564f4100-cb19-4971-a8a4-3e16b2d54c8d",
+  "fromTable": "CAPEX Measures",
+  "fromColumn": "time_id",
+  "toTable": "Date",
+  "toColumn": "mon_id"
+}

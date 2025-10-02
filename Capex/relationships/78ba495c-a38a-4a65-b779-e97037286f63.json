@@ -1,0 +1,7 @@
+{
+  "name": "78ba495c-a38a-4a65-b779-e97037286f63",
+  "fromTable": "CAPEX Measures",
+  "fromColumn": "mpk_id",
+  "toTable": "Organization",
+  "toColumn": "mpk_id"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "419a63ca-3579-4ba1-a5d8-29a06805827e",
+  "fromTable": "CAPEX Bud Measures",
+  "fromColumn": "curr_id",
+  "toTable": "Currency",
+  "toColumn": "curr_id"
+}

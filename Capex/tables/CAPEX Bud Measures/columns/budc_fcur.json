@@ -1,0 +1,6 @@
+{
+  "name": "budc_fcur",
+  "dataType": "double",
+  "isHidden": true,
+  "sourceColumn": "budc_fcur"
+}

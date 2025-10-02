@@ -1,0 +1,7 @@
+{
+  "name": "98ec06bc-c6f4-4805-8e04-0b4de11d4eb5",
+  "fromTable": "CAPEX Bud Measures",
+  "fromColumn": "prj_id",
+  "toTable": "Project",
+  "toColumn": "prj_id"
+}

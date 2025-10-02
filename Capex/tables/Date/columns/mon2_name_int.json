@@ -1,0 +1,6 @@
+{
+  "name": "mon2_name_int",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "mon2_name_int"
+}

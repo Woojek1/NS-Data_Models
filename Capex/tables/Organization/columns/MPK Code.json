@@ -1,0 +1,5 @@
+{
+  "name": "MPK Code",
+  "dataType": "string",
+  "sourceColumn": "mpk_code"
+}

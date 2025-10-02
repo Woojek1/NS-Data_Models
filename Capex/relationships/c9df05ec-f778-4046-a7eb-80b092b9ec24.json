@@ -1,0 +1,7 @@
+{
+  "name": "c9df05ec-f778-4046-a7eb-80b092b9ec24",
+  "fromTable": "CAPEX Measures",
+  "fromColumn": "cost_id",
+  "toTable": "Category Cost",
+  "toColumn": "account_id"
+}

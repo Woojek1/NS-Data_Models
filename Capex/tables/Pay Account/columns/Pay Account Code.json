@@ -1,0 +1,5 @@
+{
+  "name": "Pay Account Code",
+  "dataType": "string",
+  "sourceColumn": "account_code"
+}

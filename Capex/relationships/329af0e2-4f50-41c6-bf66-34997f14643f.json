@@ -1,0 +1,7 @@
+{
+  "name": "329af0e2-4f50-41c6-bf66-34997f14643f",
+  "fromTable": "CAPEX Bud Measures",
+  "fromColumn": "cost_id",
+  "toTable": "Category Cost",
+  "toColumn": "account_id"
+}

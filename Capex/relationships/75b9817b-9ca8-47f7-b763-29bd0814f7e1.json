@@ -1,0 +1,7 @@
+{
+  "name": "75b9817b-9ca8-47f7-b763-29bd0814f7e1",
+  "fromTable": "CAPEX Bud Measures",
+  "fromColumn": "scat_id",
+  "toTable": "Sales Category Cost",
+  "toColumn": "scat_id"
+}

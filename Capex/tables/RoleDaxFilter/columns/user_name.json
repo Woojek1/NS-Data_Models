@@ -1,0 +1,6 @@
+{
+  "name": "user_name",
+  "dataType": "string",
+  "isNullable": false,
+  "sourceColumn": "user_name"
+}

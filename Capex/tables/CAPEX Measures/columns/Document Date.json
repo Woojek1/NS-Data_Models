@@ -1,0 +1,6 @@
+{
+  "name": "Document Date",
+  "dataType": "dateTime",
+  "sourceColumn": "src_doc_date",
+  "displayFolder": "Transaction Measures"
+}

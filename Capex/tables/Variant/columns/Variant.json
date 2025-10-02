@@ -1,0 +1,5 @@
+{
+  "name": "Variant",
+  "dataType": "string",
+  "sourceColumn": "var_name"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "prj_sgrp_id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "prj_sgrp_id"
+}

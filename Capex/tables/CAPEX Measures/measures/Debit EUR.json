@@ -1,0 +1,5 @@
+{
+  "name": "Debit EUR",
+  "expression": "SUM([debet_amount_eur])",
+  "displayFolder": "Measures EUR"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "debet_amount_cur",
+  "dataType": "double",
+  "isHidden": true,
+  "sourceColumn": "debet_amount_cur",
+  "displayFolder": "Measures CUR"
+}

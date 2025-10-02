@@ -1,0 +1,5 @@
+{
+  "name": "Team Code",
+  "dataType": "string",
+  "sourceColumn": "team_code"
+}

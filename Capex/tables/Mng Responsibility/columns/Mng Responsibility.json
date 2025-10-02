@@ -1,0 +1,5 @@
+{
+  "name": "Mng Responsibility",
+  "dataType": "string",
+  "sourceColumn": "mng_resp_name"
+}

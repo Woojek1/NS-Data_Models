@@ -1,0 +1,11 @@
+{
+  "name": "Budget bPLN",
+  "expression": "SUM([budc_bpln])",
+  "formatString": "#,0.00 \"zł\";-#,0.00 \"zł\";#,0.00 \"zł\"",
+  "annotations": [
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Currency\" Accuracy=\"2\"><Currency LCID=\"1045\" DisplayName=\"zł Polski (Polska)\" Symbol=\"zł\" PositivePattern=\"3\" NegativePattern=\"8\" /></Format>"
+    }
+  ]
+}

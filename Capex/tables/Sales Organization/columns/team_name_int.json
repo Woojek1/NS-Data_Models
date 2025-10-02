@@ -1,0 +1,6 @@
+{
+  "name": "team_name_int",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "team_name_int"
+}

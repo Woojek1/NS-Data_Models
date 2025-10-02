@@ -1,0 +1,8 @@
+{
+  "name": "Year",
+  "dataType": "int64",
+  "isNullable": false,
+  "sourceColumn": "year_name",
+  "formatString": "0",
+  "summarizeBy": "none"
+}

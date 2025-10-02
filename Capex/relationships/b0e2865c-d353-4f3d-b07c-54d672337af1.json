@@ -1,0 +1,7 @@
+{
+  "name": "b0e2865c-d353-4f3d-b07c-54d672337af1",
+  "fromTable": "CAPEX Measures",
+  "fromColumn": "prj_id",
+  "toTable": "Project",
+  "toColumn": "prj_id"
+}

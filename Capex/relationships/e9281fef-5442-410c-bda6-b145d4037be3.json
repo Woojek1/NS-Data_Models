@@ -1,0 +1,7 @@
+{
+  "name": "e9281fef-5442-410c-bda6-b145d4037be3",
+  "fromTable": "CAPEX Bud Measures",
+  "fromColumn": "curr_id",
+  "toTable": "GL Currency",
+  "toColumn": "curr_id"
+}

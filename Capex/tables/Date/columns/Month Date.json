@@ -1,0 +1,7 @@
+{
+  "name": "Month Date",
+  "dataType": "dateTime",
+  "isKey": true,
+  "isNullable": false,
+  "sourceColumn": "mon_date"
+}

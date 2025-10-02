@@ -1,0 +1,7 @@
+{
+  "name": "fad62cd1-34a0-4be2-afb7-b0d6fa0f8658",
+  "fromTable": "CAPEX Bud Measures",
+  "fromColumn": "mng_resp_id",
+  "toTable": "Mng Responsibility",
+  "toColumn": "mng_resp_id"
+}

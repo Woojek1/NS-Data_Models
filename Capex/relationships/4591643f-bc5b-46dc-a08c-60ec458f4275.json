@@ -1,0 +1,7 @@
+{
+  "name": "4591643f-bc5b-46dc-a08c-60ec458f4275",
+  "fromTable": "CAPEX Bud Measures",
+  "fromColumn": "account_id",
+  "toTable": "Account",
+  "toColumn": "account_id"
+}

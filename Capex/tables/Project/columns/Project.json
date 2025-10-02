@@ -1,0 +1,5 @@
+{
+  "name": "Project",
+  "dataType": "string",
+  "sourceColumn": "prj_desc"
+}

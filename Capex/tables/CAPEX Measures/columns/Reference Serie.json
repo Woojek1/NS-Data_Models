@@ -1,0 +1,6 @@
+{
+  "name": "Reference Serie",
+  "dataType": "string",
+  "sourceColumn": "src_reference_serie",
+  "displayFolder": "Transaction Measures"
+}

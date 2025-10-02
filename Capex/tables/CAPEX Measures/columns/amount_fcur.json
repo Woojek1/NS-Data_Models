@@ -1,0 +1,7 @@
+{
+  "name": "amount_fcur",
+  "dataType": "double",
+  "isHidden": true,
+  "sourceColumn": "amount_fcur",
+  "displayFolder": "Measures GL CURR"
+}

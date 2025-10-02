@@ -1,0 +1,7 @@
+{
+  "name": "BI Capex",
+  "dataType": "int64",
+  "sourceColumn": "bi_capex",
+  "displayFolder": "Transaction Measures",
+  "summarizeBy": "none"
+}

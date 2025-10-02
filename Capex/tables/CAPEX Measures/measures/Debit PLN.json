@@ -1,0 +1,5 @@
+{
+  "name": "Debit PLN",
+  "expression": "SUM([debet_amount_pln])",
+  "displayFolder": "Measures PLN"
+}

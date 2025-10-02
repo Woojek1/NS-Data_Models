@@ -1,0 +1,6 @@
+{
+  "name": "quart_date",
+  "dataType": "dateTime",
+  "isHidden": true,
+  "sourceColumn": "quart_date"
+}

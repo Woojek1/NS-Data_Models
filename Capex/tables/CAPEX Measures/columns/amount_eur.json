@@ -1,0 +1,7 @@
+{
+  "name": "amount_eur",
+  "dataType": "double",
+  "isHidden": true,
+  "sourceColumn": "amount_eur",
+  "displayFolder": "Measures EUR"
+}

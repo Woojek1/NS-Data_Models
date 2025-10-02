@@ -1,0 +1,5 @@
+{
+  "name": "Cost Source",
+  "dataType": "string",
+  "sourceColumn": "trans_name"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Voucher Annotation",
+  "dataType": "string",
+  "sourceColumn": "src_text",
+  "displayFolder": "Transaction Measures"
+}

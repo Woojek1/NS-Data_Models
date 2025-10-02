@@ -1,0 +1,6 @@
+{
+  "name": "yearh_count",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "yearh_count"
+}
